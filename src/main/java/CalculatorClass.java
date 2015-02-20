@@ -11,6 +11,7 @@ public class CalculatorClass {
     Scanner inputObject = new Scanner(System.in);
     
     //getting input from the user
+    
     public void getInput()
     {
         System.out.print("Enter first number : ");
@@ -51,6 +52,7 @@ public class CalculatorClass {
         }
     }
     
+    //Add method
     public void Addition()
     {
         result1=num1+num2;
