@@ -69,6 +69,7 @@ public class CalculatorClass {
         result1=0;
         getUserInput();
     }
+    //Add Multiplication
     public void Multiplication()
     {
         result1=num1*num2;
