@@ -60,6 +60,8 @@ public class CalculatorClass {
         result1=0;
         getUserInput();
     }
+    
+    //Add subtraction
     public void Subtraction()
     {
         result1=num1-num2;
