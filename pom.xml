@@ -72,7 +72,7 @@
       <id>internal</id>
       <name>Internal Repository-snapshots</name>
      <url>
-	 http://localhost:8089/nexus/content/repositories/snapshots/
+	 http://localhost:8089/nexus/content/repositories/MavenBuildRepository/
 	 </url>
     </snapshotRepository>
   </distributionManagement>
