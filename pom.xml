@@ -4,9 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     
     <!-- changed in forked account -->
-    <!-- Added new comment -->
-    <!-- Added second new comment -->
-    <!-- Added third new comment -->
+	<!-- Added new comment -->
+	<!-- Added second new comment -->
     
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
