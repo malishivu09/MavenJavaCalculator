@@ -78,6 +78,8 @@ public class CalculatorClass {
         result1=0;
         getUserInput();
     }
+    
+    //Add Division
     public void Division()
     {
         result1=num1/num2;
